@@ -13,6 +13,8 @@ public class Student {
 		studentName();
 		System.out.println("Again Static Method Call !!!");
 		
+		System.out.println("Instance method");
+		
 		
 		
 	}
