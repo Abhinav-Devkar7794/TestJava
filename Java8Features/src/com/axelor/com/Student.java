@@ -15,6 +15,10 @@ public class Student {
 		
 		System.out.println("Instance method");
 		
+		System.out.println("Instance method");
+		
+		System.out.println("Instance method again");
+		
 		
 		
 	}
