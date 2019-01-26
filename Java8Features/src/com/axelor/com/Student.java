@@ -11,6 +11,8 @@ public class Student {
 
 		System.out.println("Static Method Call !!!");
 		studentName();
+		System.out.println("Again Static Method Call !!!");
+		
 		
 		
 	}
